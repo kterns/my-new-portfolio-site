@@ -1,0 +1,20 @@
+header .intro-text .name, .navbar-custom .navbar-toggle {
+    text-transform: none;
+}
+
+hr.profile-icon:after {
+  content: "\f121";
+}
+hr.portfolio-icon:after {
+  /*content: "\f02d";*/
+  content: "\f108";
+}
+hr.about-icon:after {
+  /*content: "\f2bd";*/
+  content: "\f007";
+}
+hr.contact-icon:after {
+  /*content: "\f2bb";*/
+  /*content: "\f2b6";*/
+  content: "\f003";
+}
